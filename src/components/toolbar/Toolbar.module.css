@@ -1,0 +1,9 @@
+.app__toolbar {
+  display: flex;
+  background: #161821;
+  padding: 6px 10px;
+}
+
+.App {
+  background: #161821;
+}
