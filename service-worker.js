@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/wotlk-guides/precache-manifest.c6557a54bb1c6bf4b2fb8a6d35242ba9.js"
+  "/wotlk-guides/precache-manifest.9246ac31a732e898d075550481a544ce.js"
 );
 
 workbox.clientsClaim();
